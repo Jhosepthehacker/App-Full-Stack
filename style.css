@@ -1,0 +1,33 @@
+body {
+  background-color: #04a08;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px;
+}
+
+button:hover {
+  color: #f6a8c;
+}
+
+#sendMessageToBackend {
+  background-color: #00ff00;
+  color: white;
+  margin: 20px;
+  padding: 2px;
+  border: 2px solid #00ff00;
+  border-radius: 6px;
+  text-align: center;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  color: grey;
+  float: bottom;
+  margin-bottom: 6px;
+}
