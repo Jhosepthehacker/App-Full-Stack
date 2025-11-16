@@ -1,5 +1,5 @@
 body {
-  background-color: #04a08;
+  background-color: #04a086;
   margin: 0;
   border: 0;
   padding: 0;
@@ -14,7 +14,7 @@ button:hover {
   color: #f6a8c;
 }
 
-#sendMessageToBackend {
+#comunicationBackend {
   background-color: #00ff00;
   color: white;
   margin: 20px;
