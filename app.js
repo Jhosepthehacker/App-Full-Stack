@@ -7,4 +7,7 @@ const dom = () => {
 
 dom();
 
-// fetch();
+async function sendMessageToBackend() {
+  const API_URL = "http://192.168.1.102/8080/";
+  await fetch();
+}
