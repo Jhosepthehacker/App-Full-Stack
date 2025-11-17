@@ -3,7 +3,7 @@ const sendRequests = () => {
   alert("Hola");
 
   async function getData() {
-    const API_URL = "http://127.0.0.1:8080/message";
+    const API_URL = "http://192.168.1.3:8080/message";
 
     const response = await fetch(API_URL, {
       method: 'GET'
